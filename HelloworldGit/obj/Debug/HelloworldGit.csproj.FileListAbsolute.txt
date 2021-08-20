@@ -1,0 +1,7 @@
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\bin\Debug\HelloworldGit.exe.config
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\bin\Debug\HelloworldGit.exe
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\bin\Debug\HelloworldGit.pdb
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\obj\Debug\HelloworldGit.csproj.AssemblyReference.cache
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\obj\Debug\HelloworldGit.csproj.CoreCompileInputs.cache
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\obj\Debug\HelloworldGit.exe
+C:\Users\sriva\source\repos\HelloworldGit\HelloworldGit\obj\Debug\HelloworldGit.pdb
